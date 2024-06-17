@@ -1,2 +1,2 @@
-# game-theory-fyp
+# game-theory
 energy dustribution
